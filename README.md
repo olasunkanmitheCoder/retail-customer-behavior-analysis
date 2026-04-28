@@ -1,2 +1,9 @@
-# retail-customer-behavior-analysis
-End-to-end data analytics project analyzing retail customer shopping behavior to uncover trends, improve customer engagement, and drive business decisions. Built using Python, SQL, and Power BI — covering data preparation, analysis, visualization, and business recommendations.
+# Retail Customer Behavior Analysis: End-to-End Data Analytics Project (Python, SQL, Power BI)
+## Business Problem
+A retail company is experiencing shifts in customer purchasing behavior across:
+- demographics
+- product categories
+- online vs offline channels
+
+The key challenge:
+> How can the company use its data to understand customer behavior, improve sales, and increase long-term customer loyalty?
