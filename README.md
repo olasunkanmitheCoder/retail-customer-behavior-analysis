@@ -7,7 +7,7 @@ A retail company is experiencing shifts in customer purchasing behavior across:
 - online vs offline channels
 
 The key challenge:
-> How can the company use its data to understand customer behavior, improve sales, and increase long-term customer loyalty?
+>> How can the company use its data to understand customer behavior, improve sales, and increase long-term customer loyalty?
 
 ## Project Objective
 
@@ -80,5 +80,17 @@ Built an interactive dashboard to:
 - Improve Product Positioning → Promote top-rated & best-selling products
 - Target Marketing Campaigns → Focus on high-value customer segments
 
+
 ## Dashboard Overview
 ![Dashboard view](https://github.com/olasunkanmitheCoder/retail-customer-behavior-analysis/blob/main/BI_visuals.png)
+
+
+
+## About Me
+I am Oladejo Olasunkanmi, a Data Scientist with a background in Remote Sensing and Geographic Information Systems (GIS) and over three years of experience analyzing geospatial and spatial datasets across multiple domains. I specialize in transforming complex datasets into actionable insights that support data-driven decision-making for governments and organizations.
+
+My work focuses on data analysis, spatial analytics, and data visualization to uncover patterns, trends, and opportunities hidden in data. I leverage tools such as Python, SQL, GIS technologies, and statistical analysis to build analytical solutions that improve operational efficiency and strategic planning.
+
+I am passionate about using data science and geospatial intelligence to solve real-world problems and support smarter, evidence-based decisions.
+
+I am open to Data Scientist, Geospatial Data Scientist, and Data Analyst opportunities where I can apply data-driven solutions to complex problems.
